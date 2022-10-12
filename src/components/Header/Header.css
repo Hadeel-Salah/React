@@ -1,8 +1,10 @@
-.header{
+.header {
     background-color: black;
-    padding:25px ; /*top right*/}
+    padding: 25px;
+    /*top right*/
+}
 
-.header img{
-    width : 100px;
-    height:13px;
+.header img {
+    width: 100px;
+    height: 13px;
 }
