@@ -1,0 +1,16 @@
+.tesla-battery {
+    width: 1100px;
+    margin: 0 auto;
+    /* auto: The browser sets the margin. 
+    The result of this is dependant of the browser
+    * top and bottom margins are 0
+    * right and left margins are auto*/
+}
+
+.tesla-battery h1 {
+    font-weight: 100;
+    font-size: 38px;
+    font-family: 'RobotoNormal';
+    text-align: center;
+    letter-spacing: 3px;
+}
