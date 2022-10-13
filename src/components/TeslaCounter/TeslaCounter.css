@@ -1,0 +1,8 @@
+.tesla-counter {
+    float: left;
+    width: 230px; 
+  }
+  .tesla-counter__title {
+    letter-spacing: 2px;
+    font-size: 16px; 
+  }
